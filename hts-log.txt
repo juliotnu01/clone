@@ -1,0 +1,30 @@
+HTTrack3.48-21 launched on Tue, 20 Feb 2018 12:53:26 at http://http://surfhousebarcelona.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://http://surfhousebarcelona.com/ -O "/home/juliot/websites/clone01" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:56:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): code.jquery.com/jquery-1.11.0.min.js
+12:56:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): code.jquery.com/jquery-migrate-1.2.1.min.js
+12:56:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): surfhousebarcelona.com/js/vendor/outdatedbrowser.min.js
+12:56:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): surfhousebarcelona.com/js/vendor/openWeather.js
+13:00:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): surfhousebarcelona.com/js/menu.js
+13:03:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): surfhousebarcelona.com/js/fooddrinks.js
+13:25:43	Warning: 	HTML file (17514 bytes) retransferred due to lack of cache: surfhousebarcelona.com/home/
+13:25:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): surfhousebarcelona.com/js/activities.js
+13:25:46	Warning: 	HTML file (6070 bytes) retransferred due to lack of cache: surfhousebarcelona.com/team/andrea-luelmo
+13:29:05	Warning: 	File not parsed, looks like binary: surfhousebarcelona.com/css/fonts/museosans-100-webfont.woff2
+13:29:05	Warning: 	File not parsed, looks like binary: surfhousebarcelona.com/css/fonts/museosans-300-webfont.woff2
+13:29:05	Warning: 	File not parsed, looks like binary: surfhousebarcelona.com/css/fonts/museosans_500-webfont.woff2
+13:29:05	Warning: 	File not parsed, looks like binary: surfhousebarcelona.com/css/fonts/museosans_700-webfont.woff2
+13:29:05	Warning: 	File not parsed, looks like binary: surfhousebarcelona.com/css/fonts/museosans_900-webfont.woff2
+13:29:06	Warning: 	File not parsed, looks like binary: surfhousebarcelona.com/css/inc/fonts/museosans-100-webfont.woff2
+13:29:06	Warning: 	File not parsed, looks like binary: surfhousebarcelona.com/css/inc/fonts/museosans-300-webfont.woff2
+13:29:07	Warning: 	File not parsed, looks like binary: surfhousebarcelona.com/css/inc/fonts/museosans_500-webfont.woff2
+13:29:07	Warning: 	File not parsed, looks like binary: surfhousebarcelona.com/css/inc/fonts/museosans_700-webfont.woff2
+13:29:07	Warning: 	File not parsed, looks like binary: surfhousebarcelona.com/css/inc/fonts/museosans_900-webfont.woff2
+
+HTTrack Website Copier/3.48-21 mirror complete in 35 minutes 41 seconds : 354 links scanned, 361 files written (53879067 bytes overall) [53689690 bytes received at 25076 bytes/sec], 531927 bytes transferred using HTTP compression in 29 files, ratio 34%, 3.5 requests per connection
+(No errors, 19 warnings, 0 messages)

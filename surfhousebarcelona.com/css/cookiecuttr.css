@@ -1,0 +1,7 @@
+.cc-cookies { font-family: "museo_sans";position:fixed; width: 281px; padding:10px;left: 17px; bottom: 17px; background: rgba(35,35,35,1);  z-index: 2;}
+.cc-cookies:hover{opacity: 1;-o-transition: all 0.5s ease-in; -webkit-transition: all 0.25s ease-in; -moz-transition: all 0.25s ease-in;}
+.cc-cookies p {line-height: 13px; font-size:10px;color:#fff;font-weight: 200;margin:0}
+.cc-cookies a img{width:9px;height: 9px;float:right}
+.cc-cookies a:hover { text-decoration: none;}
+.cc-overlay { height: 100%; padding-top: 25%; }
+.cc-cookies a.cc-cookie-accept{ display: inline-block; color: #fff; text-decoration: none;  -o-transition: background 0.5s ease-in; -webkit-transition: background 0.25s ease-in; -moz-transition: background 0.25s ease-in;position: absolute;top: 5px;right: 5px;width: 97%;left: 5px;height: 85%;}

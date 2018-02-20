@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+surfhousebarcelona.com	TRUE	/	FALSE	1999999999	b3e450827dac8b284e759df4f059125c	2b8f3ad5dff82a8ef873fb2cfa78217e
+surfhousebarcelona.com	TRUE	/	FALSE	1999999999	lang_cookie	es
+
